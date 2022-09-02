@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harsh-crypto
-- 👀 I’m interested in Machine learning, data science and Appliaction development.
+- 👀 I’m interested in Machine learning, data science and Application development.
 - 🌱 I’m currently learning machine learning and full-stack web development.
 - 📫 How to reach me:
   Email- harshmalik8@gmail.com
